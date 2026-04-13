@@ -1,4 +1,4 @@
- # +_= MyCompyutr - Modern & Productive Terminal Configuration
+ # +_= MyComLutr - Modern & Productive Terminal Configuration
 
 🌐 [🇬🇧 English](#english) | [🇮🇩 Bahasa Indonesia](#bahasa-indonesia)
 
