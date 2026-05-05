@@ -1,3 +1,5 @@
+# EndeavourOS
+
 ## idle w/firefox:
 <img width="1920" height="1200" alt="gambar" src="https://github.com/user-attachments/assets/5cae6c85-0ee8-4e77-9898-781c39d09b7d" />
 
