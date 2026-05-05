@@ -1,6 +1,6 @@
 # CachyOS
 
-## idle /wfirefox
+## idle w/firefox
 <img width="1920" height="1200" alt="gambar" src="https://github.com/user-attachments/assets/7ad87fbc-0c0b-47ba-b428-49806e9147de" />
 
 ## monitor
